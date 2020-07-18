@@ -13,7 +13,7 @@ alt: "hero alt"
 
 ## ArcGIS?
 
-At the beginning of my Social Sciences study, I took an software course to learn how to manage space-related data and visualize it in ArcGIS. ArcGIS is a geographic information system (GIS)
+At the beginning of my Social Sciences study, I took an software course to learn how to manage space-related data and visualize it in ArcGIS. ArcGIS is a geographic information system (GIS), it allows users to create many kinds of maps with their own data
 
 ## Background ...
 
@@ -25,6 +25,7 @@ Head Start is a programm launched in 1965 by the US Department of Health and Hum
 
 The goal is to visualize the distribution of children in proverty under 5 years old in San Francisco and how many Head Start Centers are within certain distances from them.
 
+{{< responsive-image path="images/sanfran_street.jpg" >}}
 
 ## Data
 
