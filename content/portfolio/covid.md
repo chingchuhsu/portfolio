@@ -2,9 +2,9 @@
 title: "Creating a COVID-19 Dashboard using Google Data Studio"
 date: 2020-08-28T15:52:09+02:00
 draft: false
-author: "Ching-Chu Hsus"
+author: "Ching-Chu Hsu"
 keywords:
-    - "Word"
+    - "study"
 summary: "The COVID-19 dataset is updated everyday. I made a Google Data Studio report to present the facts and trends of it. "
 thumbnail: "images/covidheader.jpg"
 disqus: false
