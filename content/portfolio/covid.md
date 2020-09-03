@@ -23,9 +23,7 @@ Here are some facts:
 * European countries occupy **6 of 10 places in countries with the highest case fatality rate**.
 
 * North America has most cases by continent due to the US and Mexico, Asia is on the second place due to India, Russia, and Iran.
-
 {{</ info-card >}}
-
 
 The year 2020 has been an unusual year for most of us regardless of where we live since COVID-19 has spread across the globe. 
 
@@ -45,8 +43,6 @@ This is my finished report with data from [Our World in Data](https://ourworldin
 
 {{< google-data-studio >}}
 
-
-
 ## Ideas of Theme Customization 
 
 After roughly finishing the layout of the report, I started to about think what colors I should use for my report to let it look more unique. 
@@ -55,9 +51,7 @@ Inspired by the [Johns Hopkins University report](https://coronavirus.jhu.edu/ma
 
 Then I browsed through some templates on [Data Studio Report Gallery](https://datastudio.google.com/gallery "Data Studio Report Gallery") and [Pinterest](https://www.pinterest.de/search/pins/?q=data%20studio%20report%20templates&rs=typed&term_meta[]=data%7Ctyped&term_meta[]=studio%7Ctyped&term_meta[]=report%7Ctyped&term_meta[]=templates%7Ctypedy "Data Studio Report Templates"), and finally decided dark grey, white, purple, and green as the main colors for my report. Since purple and green are high contrast colors, and white stands out from the dark grey background. 
 
-
 {{< responsive-image path="images/color_palette.png" >}}
-
 
 This combination of color makes the tables and data easy to read. I also really like [Coolors](https://coolors.co/ "Coolors"), a free and fun to use color schemes generator, when it comes to deciding colors for visualization.
 
@@ -67,7 +61,4 @@ This is the first time I created a report using Google Data Studio, and thanks t
 
 The dataset is very useful, though for some variables there's no data from all the countries (which is common in real-world), I didn't need those variables for my report.
 
-Although this report might only contain some relatively basic functions of Data Studio, I found it easy to read and clear. I also learned a few more things about the facts and trends of COVID-19. 
-
-
-
+Although this report might only contain some relatively basic functions of Data Studio, I found it easy to read and clear. I also learned a few more things about the facts and trends of COVID-19.

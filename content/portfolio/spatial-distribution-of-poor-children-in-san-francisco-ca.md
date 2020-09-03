@@ -20,8 +20,8 @@ At the beginning of my Social Sciences study, I took a software course to learn 
 
 The goal of this project is to visualize:
 
+* The distribution of children in poverty under 5 years old in San Francisco
 
-* The distribution of children in poverty under 5 years old in San Francisco 
 * The number of Head Start Centers within certain distances from them
 
 and thus to examine if the location of Head Start Centers meets the need
@@ -41,8 +41,7 @@ Maps will be extremely helpful here.
 
 {{< responsive-image path="images/sanfran_city.jpg" >}}
 
-This background of this project is the [**Head Start Program**](
-https://en.wikipedia.org/wiki/Head_Start_(program) "Head Start Program") launched in 1965 by the US Department of Health and Human Services, in helping low-income children and families with early childhood education, health, nutrition, and parent involvement services. 
+This background of this project is the [**Head Start Program**](https://en.wikipedia.org/wiki/Head_Start_(program) "Head Start Program") launched in 1965 by the US Department of Health and Human Services, in helping low-income children and families with early childhood education, health, nutrition, and parent involvement services. 
 
 It operates independently from local schools and is designed to enhance children's physical and emotional well-being and stable family relationships.
 
@@ -54,14 +53,13 @@ With the help of a map, I thus wanted to know if the Head Start Centers in San F
 
 ## Data Source
 
-The data source of this project is from Ayse Pamuk's book (2006): [Mapping global cities: GIS methods in urban analysis](
-https://agris.fao.org/agris-search/search.do?recordID=SO2007100040 "Mapping Global Cities: GIS methods in Urban analysis").
+The data source of this project is from Ayse Pamuk's book (2006): [Mapping global cities: GIS methods in urban analysis](https://agris.fao.org/agris-search/search.do?recordID=SO2007100040 "Mapping Global Cities: GIS methods in Urban analysis").
 
 ## Steps within ArcGIS
 
-### 1.The Distribution of Children under 5 in Poverty in the City
-The [data source](
-https://agris.fao.org/agris-search/search.do?recordID=SO2007100040 "Mapping Global Cities: GIS methods in Urban analysis") showed that there are 3949 children under 5 years old living in poverty in San Francisco. However, the distribution of them in each census block group is fairly uneven. 
+### 1. The Distribution of Children under 5 in Poverty in the City
+
+The [data source](https://agris.fao.org/agris-search/search.do?recordID=SO2007100040 "Mapping Global Cities: GIS methods in Urban analysis") showed that there are 3949 children under 5 years old living in poverty in San Francisco. However, the distribution of them in each census block group is fairly uneven. 
 
 {{< responsive-image path="images/sanfran_0.png" >}}
 
