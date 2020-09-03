@@ -6,10 +6,9 @@ const purgecss = require("@fullhuman/postcss-purgecss")({
     themeDir + "layouts/**/*.html",
     themeDir + "content/**/*.html",
     "layouts/**/*.html",
-    "content/**/*.html",
-    "exampleSite/layouts/**/*.html",
-    "exampleSite/content/**/*.html"
+    "content/**/*.html"
   ],
+  whitelist: ["h2"],
 
   // This is the function used to extract class names from your templates
   defaultExtractor: content => {
