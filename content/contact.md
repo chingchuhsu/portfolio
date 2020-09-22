@@ -3,7 +3,7 @@ title: "Contact"
 date: 2020-05-20T23:46:35+02:00
 draft: false
 layout: "split"
-thumbnail: "images/thumbnail.png"
+thumbnail: "images/namecard.png"
 menu: "navigation"
 ---
 I'd love to hear from you!
