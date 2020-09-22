@@ -6,7 +6,7 @@ menu: "navigation"
 type: "about"
 ---
 
-I began my Social Sciences Bachelor at the Humboldt University of Berlin in 2016. During my studying,  I developed analysis skills in working with large and varied datasets with advanced statistical methods and acquired knowledge of data visualization with a variety of tools. 
+I began my Social Sciences Bachelor at Humboldt University of Berlin in 2017. During my studying,  I developed analysis skills in working with large and varied datasets with advanced statistical methods and acquired knowledge of data visualization with a variety of tools. 
 
 In 2017, I joined a fintech startup in Berlin as an intern. With my data analysis and strategic thinking skills, I helped my team achieve a high user engagement rate on social media channels.
 
