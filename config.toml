@@ -4,3 +4,12 @@ title = "Ching Chu Hsu's Portfolio"
 theme = ["hugo-cloak-email", "hugo-vanilla-theme"]
 disableKinds = ["taxonomy", "taxonomyTerm"]
 sectionPagesMenu = "navigation"
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = false
+
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+
