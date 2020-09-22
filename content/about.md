@@ -2,8 +2,8 @@
 title: "About"
 date: 2020-05-24T20:36:45+02:00
 draft: false
-thumbnail: "images/thumbnail.png"
 menu: "navigation"
+type: "about"
 ---
 
 I began my Social Sciences Bachelor at the Humboldt University of Berlin in 2016. During my studying,  I developed analysis skills in working with large and varied datasets with advanced statistical methods and acquired knowledge of data visualization with a variety of tools. 

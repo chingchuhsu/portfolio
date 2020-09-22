@@ -3,8 +3,8 @@
     <div class="markdown max-w-3xl mx-auto px-4 z-20 w-full">
         <h1>{{ .Title }}</h1>
         {{ $imgName := .Params.thumbnail}}
+        {{ if $imgName }}
         {{ $original := resources.Get (print .Params.thumbnail) }}
-        {{ if $original }}
         {{ $large := ($original.Fill "1200x630 jpg center q75 jpg Lanczos" )}}
         {{ $medium := ($original.Fill "900x473 jpg center q75 jpg Lanczos" )}}
         {{ $small := ($original.Fill "600x315 jpg center q75 jpg Lanczos" )}}
